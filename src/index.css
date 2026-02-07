@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-robot-primary: #4ADE80;
+  /* Green (User preference) */
+  --color-robot-secondary: #60A5FA;
+  /* Soft Blue */
+  --color-robot-accent: #F472B6;
+  /* Pink/Pastel Accent */
+  --color-background-soft: #F0FDFA;
+  /* Very light teal/mint background */
+  --font-display: "Fredoka", "Nunito", sans-serif;
+  /* Rounded/Cute font placeholder */
+}
